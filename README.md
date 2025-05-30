@@ -1,2 +1,2 @@
-# bingo-game
-bingo game using python, js and css
+project
+game using python, js and css
